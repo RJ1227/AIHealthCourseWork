@@ -1,2 +1,0 @@
-# AIHealth
-AIHealth Coursework
